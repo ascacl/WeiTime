@@ -1,0 +1,3 @@
+<?php
+//000000000000a:2:{i:1;a:4:{s:2:"id";s:1:"1";s:4:"name";s:7:"Article";s:5:"title";s:6:"文章";s:6:"fields";s:316:"{"title":1,"name":2,"content":3,"type":4,"uid":5,"category_id":6,"model_id":7,"status":8,"parse":-1,"pid":-2,"display":-3,"dateline":-4,"view":-5,"level":-6,"update_time":-7,"create_time":-8,"extend":-9,"comment":-10,"attach":-11,"description":-12,"id":-13,"template":-14,"cover_id":-15,"position":-16,"link_id":-17}";}i:2;a:4:{s:2:"id";s:1:"2";s:4:"name";s:8:"Download";s:5:"title";s:6:"下载";s:6:"fields";s:0:"";}}
+?>
